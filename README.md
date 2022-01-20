@@ -5,9 +5,9 @@ New mail --Trained Logistic Regression model --Spam or notspam.
 <h4>Dependencies i used</h4>
 <br>
   
-import numpy as np
-import pandas as pd
-from sklearn.model_selection import train_test_split
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.linear_model import LogisticRegression
-from sklearn.metrics import accuracy_score
+import numpy as np<br>
+import pandas as pd<br>
+from sklearn.model_selection import train_test_split<br>
+from sklearn.feature_extraction.text import TfidfVectorizer<br>
+from sklearn.linear_model import LogisticRegression<br>
+from sklearn.metrics import accuracy_score<br>
