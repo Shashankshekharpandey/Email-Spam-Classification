@@ -1,8 +1,9 @@
 # Email-Spam-Classification
-Workflow
+<h2>Workflow</h2>
 Mail Data -> Data pre processing -> Train Test Split-> Logistic regression model
 New mail --Trained Logistic Regression model --Spam or notspam.
-<h1>Dependencies i used<h1><br>
+<h4>Dependencies i used</h4>
+<br>
   
 import numpy as np
 import pandas as pd
